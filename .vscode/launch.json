@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/data_structure/list.py", // 실행 파일
+      "args": ["--env", "local", "--mode", "init"], // argument
+      "console": "integratedTerminal"
+    }
+  ]
+}
